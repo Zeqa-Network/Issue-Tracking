@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Zeqa Discord
+    url: https://discord.gg/zeqa
+    about: For any questions regarding your feature or issue please join the discord.
+  - name: Security Issues
+    url: https://admin.zeqa.net/vulnerability
+    about: Please report security vulnerabilities here.
