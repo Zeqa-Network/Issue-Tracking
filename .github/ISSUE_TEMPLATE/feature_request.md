@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggestion an idea or feature to add on Zeqa.
-title: 'bug:'
-labels: Bug
+title: 'feature:'
+labels: Feature Request
 assignees: Bavfalcon9
 
 ---
